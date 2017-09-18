@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         mTriangleView = new TriangleView(this);
         setContentView(mTriangleView);
 
+
     }
 
     @Override
